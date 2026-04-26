@@ -1,16 +1,21 @@
-## Hi there 👋
+# E aí, eu sou o Arthur! 👾
 
-<!--
-**ArmSec7/ArmSec7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante do 3º ano do ensino médio apaixonado por cybersecurity. Atuo explorando conceitos de *Cybersecurity Research*, construindo laboratórios práticos, analisando ameaças e solidificando minha base técnica para atuar em operações de segurança (*Blue Team* / *Threat Hunting*).
 
-Here are some ideas to get you started:
+### 🎯 O que estou focando agora:
+* 🎓 Conciliando a reta final do ensino médio com meus projetos práticos de segurança.
+* 🛡️ Em preparação intensiva para conquistar a certificação **CompTIA Security+** este ano.
+* 🔬 Desenvolvendo pesquisas e criando laboratórios práticos focados em detecção e resposta a incidentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas Ferramentas e Conhecimentos:
+* **Defesa & Monitoramento:** Wazuh (SIEM/XDR), criação e análise de regras YARA.
+* **Inteligência de Ameaças:** Mapeamento de táticas e técnicas usando o framework MITRE ATT&CK.
+* **Sistemas & Redes:** [Wazuh,Wireshark,Linux]
+* **Linguagens:** [Python]
+
+### 📫 Vamos nos conectar:
+* **LinkedIn:** [-----]
+* **Email:** [-----]
+
+---
+
