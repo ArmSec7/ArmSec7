@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A9E5&center=true&vCenter=true&width=600&lines=Estudante+de+Ciberseguranca;Cybersecurity+Researcher;Foco+em+Blue+Team;Rumo+a+CompTIA+Security%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;Projetos+reais+para+Problemas+reais.;Hack+the+Real+World!" alt="Typing SVG" />
 </div>
 
 # E aí, eu sou o Arthur! 👾
