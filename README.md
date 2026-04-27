@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A9E5&center=true&vCenter=true&width=600&lines=Estudante+de+Cibersegurança;Cybersecurity+Researcher;Foco+em+Blue+Team;Rumo+à+CompTIA+Security+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A9E5&center=true&vCenter=true&width=600&lines=Estudante+de+Ciberseguranca;Cybersecurity+Researcher;Foco+em+Blue+Team;Rumo+a+CompTIA+Security%2B" alt="Typing SVG" />
 </div>
-
 # E aí, eu sou o Arthur! 👾
 
 Sou um estudante do 3º ano do ensino médio apaixonado por cybersecurity. Atuo explorando conceitos de *Cybersecurity Research*, construindo laboratórios práticos, analisando ameaças e solidificando minha base técnica para atuar em operações de segurança (*Blue Team* / *Threat Hunting*).
