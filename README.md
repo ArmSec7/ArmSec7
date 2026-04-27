@@ -27,5 +27,6 @@ Sou um estudante do 3º ano do ensino médio apaixonado por cybersecurity. Atuo 
 ### 📫 Vamos nos conectar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurbrm)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.cybersec@proton.me)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arthur.cybersec@proton.me)
+ 
 
