@@ -10,8 +10,8 @@ Sou um estudante do 3º ano do ensino médio apaixonado por cybersecurity. Atuo 
 ### 🛠️ Minhas Ferramentas e Conhecimentos:
 * **Defesa & Monitoramento:** Wazuh (SIEM/XDR), criação e análise de regras YARA.
 * **Inteligência de Ameaças:** Mapeamento de táticas e técnicas usando o framework MITRE ATT&CK.
-* **Sistemas & Redes:** [Wazuh,Wireshark,Linux]
-* **Linguagens:** [Python]
+* **Sistemas & Redes:** Wireshark,Linux.
+* **Linguagem:** Python.
 
 ### 📫 Vamos nos conectar:
 * **LinkedIn:** [-----]
