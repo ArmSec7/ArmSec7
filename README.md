@@ -4,7 +4,7 @@
 
 # E aí, eu sou o Arthur! 👾
 
-Sou um estudante do 3º ano do ensino médio apaixonado por cybersecurity. Atuo explorando conceitos de *Cybersecurity Research*, construindo laboratórios práticos, analisando ameaças e solidificando minha base técnica para atuar em operações de segurança (*Blue Team* / *Threat Hunting*).
+Sou um estudante do 3º ano do ensino médio apaixonado por Segurança Cibernética. Atuo explorando conceitos de *Cybersecurity*, construindo laboratórios práticos, analisando ameaças e solidificando minha base técnica para conseguir minha primeira oportunidade na área.
 
 ### 🎯 O que estou focando agora:
 * 🎓 Conciliando a reta final do ensino médio com meus projetos práticos de segurança.
